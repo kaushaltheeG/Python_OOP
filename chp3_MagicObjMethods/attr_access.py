@@ -34,7 +34,6 @@ class Book:
         return name + " is not here"
 
          
-    
 
 
 b1 = Book("War and Peace", "Leo Tolstoy", 39.25)
